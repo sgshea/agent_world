@@ -1,0 +1,3 @@
+[workspace]
+members = ["agent_world_core", "agent_world_tui"]
+resolver = "3"
